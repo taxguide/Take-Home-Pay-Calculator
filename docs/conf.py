@@ -23,5 +23,5 @@ language = 'en'
 html_title = "Take Home Pay Calculator"
 
 # Sitemap
-html_baseurl = html_baseurl = "https://cheap-car-insurance-cheap-car-insurance.readthedocs-hosted.com/en/latest/"
+html_baseurl = html_baseurl = "https://take-home-pay-calculator-take-home-pay-calculator.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
