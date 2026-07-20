@@ -1,5 +1,10 @@
 Take Home Pay Calculator: Calculate Your Net Salary After Taxes (2026)
 =====================================================================
+.. image:: _static/login-button.png
+   :alt: Calculate Now
+   :align: center
+   :target: https://cheap-car-insurance-cheap-car-insurance.readthedocs-hosted.com/en/latest/
+   :width: 350px
 
 A **Take Home Pay Calculator** helps you calculate your estimated net salary after taxes and deductions. Enter your gross income, pay frequency, tax details, and deductions to find out how much money you will receive in your paycheck.
 
